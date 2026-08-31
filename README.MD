@@ -2,7 +2,11 @@
 
 This index covers several of the Real and Fake Books in concert key, which are listed below. It was made as an improvement of the older Master Index PDF, so now you can easily search songs and quickly navigate through different files.
 
-Simply put the ``Index.html`` file in the same folder where the other PDFs are located and open it from your browser.
+## Instructions
+
+Simply download the ``Index.html`` file and put it into the same folder where the other PDFs are located, then open it from your browser.
+
+---
 
 > [!IMPORTANT]
 > It's mandatory that the files have these specific sizes and these **exact** names (including lower and uppercase):
