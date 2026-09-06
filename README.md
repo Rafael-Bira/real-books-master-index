@@ -9,7 +9,7 @@ Simply download the corresponding `Index` file and put it into the same folder w
 > [!IMPORTANT]
 > It's mandatory that the PDF files have the specified sizes and **exact** names (including lower and uppercase).
 
-## For Concert Key
+## Concert Key
 
 `Index_C.html`
 
@@ -31,7 +31,7 @@ Simply download the corresponding `Index` file and put it into the same folder w
 | _Real Book, The - Volume 6 (C Instruments)_ | `RealBk6_C.pdf` | 54.271.950 |
 | _The Book_ | `TheBook_C.pdf` | 46.933.184 |
 
-## For Bb Instruments
+## Bb Instruments
 
 ``Index_Bb.html``
 
@@ -42,7 +42,7 @@ Simply download the corresponding `Index` file and put it into the same folder w
 | _New Real Book, The - Volume 3 (Bb Version)_ | `NewReal3_Bb.pdf` | 15.378.488 |
 | _Real Book, The - Volume 1 (Sixth Edition) (Bb Version)_ | `RealBk1_Bb.pdf` | 77.148.678 |
 | _Real Book, The - Volume 2 (Bb Version)_ | `RealBk2_Bb.pdf` | 19.082.366 |
-| _Real Book, The - Volume 3 (Bb Version)_ | `RealBk3_Bb.pdf` | 9.629.586 |
+| _Real Book, The - Volume 3 (Bb Version)_ | `RealBk3_Bb.pdf` | 9.552.500 |
 
 ---
 ---
