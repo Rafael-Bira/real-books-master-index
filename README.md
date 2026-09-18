@@ -14,7 +14,7 @@ Simply download the corresponding `Index` file and put it into the same folder w
 `Index_C.html`
 
 | Book Title | File Name | Pages |
-|------------|-----------|--------------------|
+|------------|-----------|-------|
 | _Colorado Tastebook, The (For C Instruments)_ | `Colorado_C.pdf` | 292 |
 | _Bill Evans Fakebook_ | `EvansBk_C.pdf` | 106 |
 | _Jazz Fakebook_ | `JazzFake_C.pdf` | 448 |
@@ -35,8 +35,8 @@ Simply download the corresponding `Index` file and put it into the same folder w
 
 ``Index_Bb.html``
 
-| Book Title | File Name | File Size in bytes |
-|------------|-----------|--------------------|
+| Book Title | File Name | Pages |
+|------------|-----------|-------|
 | _New Real Book, The - Volume 1 (Bb Version)_ | `NewReal1_Bb.pdf` | 330 |
 | _New Real Book, The - Volume 2 (Bb Version)_ | `NewReal2_Bb.pdf` | 363 |
 | _New Real Book, The - Volume 3 (Bb Version)_ | `NewReal3_Bb.pdf` | 347 |
@@ -48,8 +48,8 @@ Simply download the corresponding `Index` file and put it into the same folder w
 
 ``Index_Eb.html``
 
-| Book Title | File Name | File Size in bytes |
-|------------|-----------|--------------------|
+| Book Title | File Name | Pages |
+|------------|-----------|-------|
 | _New Real Book, The - Volume 1 (Eb Version)_ | `NewReal1_Eb.pdf` | 330 |
 | _New Real Book, The - Volume 2 (Eb Version)_ | `NewReal2_Eb.pdf` | 365 |
 | _New Real Book, The - Volume 3 (Eb Version)_ | `NewReal3_Eb.pdf` | 339 |
@@ -60,8 +60,8 @@ Simply download the corresponding `Index` file and put it into the same folder w
 
 ``Index_Bass.html``
 
-| Book Title | File Name | File Size in bytes |
-|------------|-----------|--------------------|
+| Book Title | File Name | Pages |
+|------------|-----------|-------|
 | _Real Book, The - Volume 1 (Fifth Edition) (Bass Clef)_ | `RealBk1_Bass.pdf` | 508 |
 | _Real Book, The - Volume 2 (Bass Clef)_ | `RealBk2_Bass.pdf` | 402 |
 
